@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a5ac2d5-55fe-48b4-aae2-a105007c2978" name="默认的" comment="第一次试验提交">
-      <change beforePath="$PROJECT_DIR$/src/com/tring/test01/test01.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tring/test01/test01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hellloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hellloword.java" afterDir="false" />
+    <list default="true" id="6a5ac2d5-55fe-48b4-aae2-a105007c2978" name="默认的" comment="分支操作1" />
+    <list id="045ce8aa-b24f-4dec-886c-272334b8e79b" name="Revert &quot;第二次试验提交&quot;" comment="Revert &quot;第二次试验提交&quot;&#10;&#10;This reverts commit 5a3dac39">
+      <change beforePath="$PROJECT_DIR$/out/production/test/com/tring/test01/test01.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/com/tring/test01/test01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/hellloword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/hellloword.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hellloword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -47,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/tring/test01/test01.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -64,6 +65,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1412f2c1846d7f7b72587b589fc336cf731ff8d6" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,6 +160,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.hellloword" />
+        <item itemvalue="应用程序.hellloword" />
+        <item itemvalue="应用程序.hellloword" />
       </list>
     </recent_temporary>
   </component>
@@ -179,13 +187,20 @@
       <option name="project" value="LOCAL" />
       <updated>1566459179363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="分支操作1">
+      <created>1566466367076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566466367076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5763000" />
+    <option name="totallyTimeSpent" value="6021000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -198,7 +213,7 @@
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49656358" visible="true" weight="0.26119402" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49656358" visible="true" weight="0.26119402" />
       <window_info id="Structure" order="1" sideWeight="0.50343645" side_tool="true" weight="0.25373134" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -207,19 +222,19 @@
       <window_info id="Favorites" order="6" sideWeight="0.50343645" side_tool="true" weight="0.25373134" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49925372" weight="0.32949308" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32871974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.32871974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49477613" weight="0.32871974" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49477613" weight="0.32871974" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32871974" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="检验" order="10" sideWeight="0.49925372" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="运行" order="11" sideWeight="0.49850747" weight="0.32949308" />
       <window_info anchor="bottom" id="找到" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49701494" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.49626866" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="调试" order="15" />
       <window_info anchor="bottom" id="消息" order="16" sideWeight="0.49850747" weight="0.32949308" />
       <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49925372" weight="0.32949308" />
@@ -280,7 +295,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次试验提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次试验提交" />
+    <MESSAGE value="分支操作1" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支操作1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -288,17 +304,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/tring/test01/tring.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/tring/test01/test01.html">
+    <entry file="file://$PROJECT_DIR$/src/hellloword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hellloword.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tring/test01/test01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="152">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>

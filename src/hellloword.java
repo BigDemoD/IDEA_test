@@ -7,5 +7,7 @@ public class hellloword {
         for (int i=0;i<10;i++){
             System.out.println("第"+i+"次");
         }
+        System.out.println("这是一个分支");
     }
 }
+~
