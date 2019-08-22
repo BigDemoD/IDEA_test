@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="6a5ac2d5-55fe-48b4-aae2-a105007c2978" name="默认的" comment="第一次试验提交" />
-=======
     <list default="true" id="6a5ac2d5-55fe-48b4-aae2-a105007c2978" name="默认的" comment="第一次试验提交">
       <change afterPath="$PROJECT_DIR$/out/production/test/com/tring/test01/test01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/test/hellloword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/hellloword.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hellloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hellloword.java" afterDir="false" />
     </list>
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hellloword.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="95">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-=======
             <state relative-caret-position="152">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
             </state>
           </provider>
         </entry>
@@ -193,11 +184,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="3807000" />
-=======
     <option name="totallyTimeSpent" value="5468000" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,6 +205,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="设计师" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50343645" side_tool="true" weight="0.25373134" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49925372" weight="0.32949308" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49925372" weight="0.32949308" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32871974" />
@@ -227,11 +215,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49477613" weight="0.32871974" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49477613" weight="0.32871974" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052239" side_tool="true" visible="true" weight="0.3298731" />
-=======
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.32871974" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
       <window_info anchor="bottom" id="检验" order="10" sideWeight="0.49925372" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="运行" order="11" sideWeight="0.49850747" weight="0.32949308" />
       <window_info anchor="bottom" id="找到" order="12" />
@@ -239,7 +223,7 @@
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49701494" weight="0.3298731" />
       <window_info anchor="bottom" id="调试" order="15" />
       <window_info anchor="bottom" id="消息" order="16" sideWeight="0.49850747" weight="0.32949308" />
-      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49925372" weight="0.32949308" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,7 +233,6 @@
       <window_info anchor="right" id="Database" order="6" weight="0.32910448" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Palette" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,8 +250,6 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-<<<<<<< HEAD
-=======
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -277,60 +258,32 @@
                   <option value="3" />
                 </list>
               </option>
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
             </State>
           </value>
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-=======
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次试验提交" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次试验提交" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="true" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/hellloword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-=======
     <entry file="file://$PROJECT_DIR$/src/com/tring/test01/tring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tring/test01/tring.java" />
     <entry file="file://$PROJECT_DIR$/src/com/tring/test01/test01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-<<<<<<< HEAD
-=======
         </state>
       </provider>
     </entry>
@@ -338,7 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
->>>>>>> b135eead06596469bb607ed0760a5507676e55ad
         </state>
       </provider>
     </entry>
