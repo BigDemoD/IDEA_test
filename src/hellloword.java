@@ -4,5 +4,8 @@ public class hellloword {
         System.out.println("helloidea");
         System.out.println("hellogithub");
         System.out.println("again updata");
+        for (int i=0;i<10;i++){
+            System.out.println("第"+i+"次");
+        }
     }
 }
