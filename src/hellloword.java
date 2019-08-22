@@ -7,6 +7,5 @@ public class hellloword {
         for (int i=0;i<10;i++){
             System.out.println("第"+i+"次");
         }
-        System.out.println("回滚前试验");
     }
 }
